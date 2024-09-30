@@ -14,7 +14,7 @@ import { DataSource } from 'typeorm';
     host: 'localhost',
     port: 3306,
     username: 'root',
-    password: 'admin@678!',
+    password: '00000',
     database: 'Nest_db',
     entities: Entities,
     synchronize: false,
